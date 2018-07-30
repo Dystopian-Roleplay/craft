@@ -7,10 +7,10 @@
 		"sampctl/samp-stdlib",
 		"Southclaws-samp-logger",
 		"pawn-lang/YSI-Includes",
-		"ScavengeSurvive/item",
-		"ScavengeSurvive/inventory",
-		"ScavengeSurvive/container",
-		"ScavengeSurvive/inventory-dialog",
-		"ScavengeSurvive/container-dialog"
+		"Dystopian-Roleplay/item",
+		"Dystopian-Roleplay/inventory",
+		"Dystopian-Roleplay/container",
+		"Dystopian-Roleplay/inventory-dialog",
+		"Dystopian-Roleplay/container-dialog"
 	]
 }
