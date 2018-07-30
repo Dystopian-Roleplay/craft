@@ -7,9 +7,9 @@
 		"sampctl/samp-stdlib",
 		"Southclaws-samp-logger",
 		"pawn-lang/YSI-Includes",
-		"Dystopian-Roleplay/item",
-		"Dystopian-Roleplay/inventory",
-		"Dystopian-Roleplay/container",
+		"Dystopian-Roleplay/item@2.0.0",
+		"Dystopian-Roleplay/inventory@2.0.0",
+		"Dystopian-Roleplay/container@2.0.0",
 		"Dystopian-Roleplay/inventory-dialog",
 		"Dystopian-Roleplay/container-dialog"
 	]
